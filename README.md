@@ -29,6 +29,7 @@ Actualmente estoy enfocado en construir experiencias digitales interactivas y si
 ### 🎮 Colaboración: [Videojuego](https://github.com/IaraLizama/Videojuego.git)
 *Proyecto en el que colaboré anteriormente.*
 - **Enfoque:** Lógica de juego y desarrollo de mecánicas interactivas.
+<img width="1600" height="821" alt="image" src="https://github.com/user-attachments/assets/64fb111f-85e7-4329-987b-b2278999959b" />
 
 ---
 
