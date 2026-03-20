@@ -36,8 +36,8 @@ Actualmente estoy enfocado en construir experiencias digitales interactivas y si
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gasdcoder07&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Gasdcoder07&layout=compact&theme=radical)
+![Estadísticas de GitHub]([https://github-readme-stats.vercel.app/api?username=Gasdcoder07&show_icons=true&theme=radical](https://github.com/BSebastian-IS/MiPrimerRepo))
+![Lenguajes más usados]([https://github-readme-stats.vercel.app/api/top-langs/?username=Gasdcoder07&layout=compact&theme=radical](https://github.com/BSebastian-IS/MiPrimerRepo))
 
 ---
 
