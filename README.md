@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Sebastian Silvestre Brian
+#👋 ¡Hola! Soy Sebastian Silvestre Brian
 
 ### 🚀 Estudiante y ingeniero en sofware de la universidad de colima.
 
