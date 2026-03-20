@@ -25,6 +25,8 @@ Actualmente estoy enfocado en construir experiencias digitales interactivas y si
 *Un proyecto ambicioso en el que estoy trabajando actualmente.*
 - **Stack:** Python, Django, Tailwind CSS.
 - **Objetivo:** Crear una plataforma optimizada para la gestión de estilo de vida/comunidad.
+<img width="1582" height="765" alt="Captura de pantalla 2026-03-06 105606" src="https://github.com/user-attachments/assets/9ea6b354-4228-4a89-9ea6-1647c234f8ba" />
+
 
 ### 🎮 Colaboración: [Videojuego](https://github.com/IaraLizama/Videojuego.git)
 *Proyecto en el que colaboré anteriormente.*
