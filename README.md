@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Sebastian Silvestre Brian
 
 ### 🚀 Estudiante y ingeniero en sofware de la universidad de colima.
 
@@ -40,5 +40,5 @@ Actualmente estoy enfocado en construir experiencias digitales interactivas y si
 ---
 
 ## 📫 Contacto
-- 💼 **LinkedIn:** [Enlace a tu perfil]
-- 📧 **Email:** [Tu correo electrónico]
+- 💼 **Telefono** [3143763386]
+- 📧 **Email:** [bsebastian0@ucol.mx]
